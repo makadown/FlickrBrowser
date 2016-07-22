@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.makadown.flickrbrowser.SearchActivity"/>
+      <point      
+        x = "1632"      
+        y = "68"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.makadown.flickrbrowser.ViewPhotoDetailsActivity"/>
+      <point      
+        x = "1508"      
+        y = "984"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.makadown.flickrbrowser.MainActivity"/>
+      <point      
+        x = "332"      
+        y = "220"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>

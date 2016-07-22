@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Configuración exclusiva para lollipop en adelante -->
+    <style name="Theme.Flickr" parent="Theme.Base">
+        <item name="android:navigationBarColor">?colorPrimaryDark</item>
+    </style>
+
+
+</resources>
